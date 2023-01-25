@@ -71,3 +71,4 @@ __First Principle__:
 * In all things, we should not seek to be self serving. It can be argued that it would be better to leave the project than contribute to the job loss of so many families. 
 
 # Conclusion
+This one is pretty easy in my opinion. I do not believe that the progression of technology should be halted in order to perserve jobs. This makes the workforce more competitive, and therefore a better workforce. I would go with option 2 only if it would truly benefit the client to reassign the employees instead of lay them off. Otherwise, I would go with option 1 and proceed onward with the project. 
