@@ -7,9 +7,8 @@ While volunteering to help with computers at your church, you are given access t
 | 🟢 Pros | 🔴 Cons |
 |-|-|
 | Keeps private information private | Could mean that there is a pastor in the church who is not fully commited, could be detrimental to the congregation |
-| Maintains the integrity of the donation system, if you come out about this, others will feel like their contributions are public  |  |
-| This could just be a glitch in the database, or maybe they give through a different person in the church... who knows! | Could feel like I no longer need to give if even the senior pastor doesn't |
-|  | This is Con four, there are more cons in this table! |
+| Maintains the integrity of the donation system, if you come out about this, others will feel like their contributions are public  | Could feel like I no longer need to give if even the senior pastor doesn't  |
+| This could just be a glitch in the database, or maybe they give through a different person in the church... who knows! | |
 
 __Script__:
 * Me: "Wow, that is strange that the senior pastor doesn't donate anything... But, I dont know the full story and this is confidential information, so I can't do anything about it."
