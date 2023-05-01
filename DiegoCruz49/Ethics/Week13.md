@@ -52,3 +52,4 @@ Don't talk behind others back. Scripture says its wrong and directs a clear way 
 Option 2. This is the clear approach because there is scripture directly relating to these types of situations. It can be handles peacefully and without telling everyone immediately. Although, I think it something the pastor should have to tell the congregation from his own mouth to keep his position.
 ### Conclusion
 Don't volunteer to help with computers at your church. Too much responsibility. I'm just kidding. As a church, we are all called to hold each other accountable. It is easy to fall off track sometimes and confrontation is not condemnation. Scripture calls us to confront the person directly and to handle it privately. We all sin and fall for temptation. We should work together to prevent it from happening and lift each other up and away from sin.
+
