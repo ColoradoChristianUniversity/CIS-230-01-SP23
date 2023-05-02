@@ -63,3 +63,4 @@ I would probably go with option 2. If things esculated, I would probably investi
 
 ### Conclusion
 It is important to know the values of the company you work for. Even if you enjoy the work, coworkers, and salary, as Christians we are held to a higher standard. It would be completely inappropriate for us to work for a company that is trying to target all religions to display only a secular world.
+
